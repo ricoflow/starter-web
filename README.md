@@ -1,7 +1,9 @@
 # Starter Web Project
 This is a simple project to show how to use Git and GitHub together.
 ## Introduction
-This example is to show different parts of bla, bla, bla...
-## Depoloyment
+This is the intro.
 ## Purpose
+This is the purpose.
+## Depoloyment
+This is the depoloyment information.
 ## How to Contribute
