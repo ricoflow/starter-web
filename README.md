@@ -7,3 +7,6 @@ This is the purpose.
 ## Depoloyment
 This is the depoloyment information.
 ## How to Contribute
+
+### Copyright
+2020 Git.Traning.
